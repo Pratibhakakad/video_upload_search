@@ -32,7 +32,7 @@ This project is a Django-based web application that allows users to upload video
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/video-processing-platform.git
+   git clone https://github.com/Pratibhakakad/video_upload_search
    cd video
 
 **Create a virtual environment and activate it:**
